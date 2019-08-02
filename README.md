@@ -1,6 +1,6 @@
 # GraphQL full course
 
-This is a FCC online tutorial using GrapQL to build a full stack application which updates or retrieves book and author data.
+This is a FCC online tutorial using GraphQL to build a full stack application which updates or retrieves book and author data.
 
 
 ## Built With
